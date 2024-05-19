@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HoangTrongTan.github.io/exam-manager.saodo.education/static/css/main.262f292c.css",
-    "main.js": "/HoangTrongTan.github.io/exam-manager.saodo.education/static/js/main.d4019a9d.js",
-    "static/js/787.ecfd0e66.chunk.js": "/HoangTrongTan.github.io/exam-manager.saodo.education/static/js/787.ecfd0e66.chunk.js",
-    "index.html": "/HoangTrongTan.github.io/exam-manager.saodo.education/index.html",
-    "main.262f292c.css.map": "/HoangTrongTan.github.io/exam-manager.saodo.education/static/css/main.262f292c.css.map",
-    "main.d4019a9d.js.map": "/HoangTrongTan.github.io/exam-manager.saodo.education/static/js/main.d4019a9d.js.map",
-    "787.ecfd0e66.chunk.js.map": "/HoangTrongTan.github.io/exam-manager.saodo.education/static/js/787.ecfd0e66.chunk.js.map"
+    "main.css": "/exam-manager.saodo.education/static/css/main.262f292c.css",
+    "main.js": "/exam-manager.saodo.education/static/js/main.f1675622.js",
+    "static/js/787.ecfd0e66.chunk.js": "/exam-manager.saodo.education/static/js/787.ecfd0e66.chunk.js",
+    "index.html": "/exam-manager.saodo.education/index.html",
+    "main.262f292c.css.map": "/exam-manager.saodo.education/static/css/main.262f292c.css.map",
+    "main.f1675622.js.map": "/exam-manager.saodo.education/static/js/main.f1675622.js.map",
+    "787.ecfd0e66.chunk.js.map": "/exam-manager.saodo.education/static/js/787.ecfd0e66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.262f292c.css",
-    "static/js/main.d4019a9d.js"
+    "static/js/main.f1675622.js"
   ]
 }
